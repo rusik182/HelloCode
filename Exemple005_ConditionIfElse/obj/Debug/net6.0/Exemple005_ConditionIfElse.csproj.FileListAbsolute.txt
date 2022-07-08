@@ -1,0 +1,15 @@
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\Exemple005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\Exemple005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\Exemple005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\Exemple005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\Exemple005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\bin\Debug\net6.0\Exemple005_ConditionIfElse.exe
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\bin\Debug\net6.0\Exemple005_ConditionIfElse.deps.json
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\bin\Debug\net6.0\Exemple005_ConditionIfElse.runtimeconfig.json
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\bin\Debug\net6.0\Exemple005_ConditionIfElse.dll
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\bin\Debug\net6.0\Exemple005_ConditionIfElse.pdb
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\Exemple005_ConditionIfElse.dll
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\refint\Exemple005_ConditionIfElse.dll
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\Exemple005_ConditionIfElse.pdb
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\Exemple005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\РА\Desktop\тестировщик ПО\знакомство с языками программирования\Examples\Exemple005_ConditionIfElse\obj\Debug\net6.0\ref\Exemple005_ConditionIfElse.dll
